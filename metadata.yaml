@@ -1,0 +1,30 @@
+_repo: Suomalaiset-Amerikassa_53160
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Järnefelt Rauanheimo, Akseli
+    aliases:
+    - Rauanheimo, Akseli Järnefelt
+    - Jarnefelt Rauanheimo, Akseli
+    - Rauanheimo, Akseli
+    birthdate: 1871
+    deathdate: 1932
+    gutenberg_agent_id: '31638'
+    url: http://www.gutenberg.org/2009/agents/31638
+    wikipedia: https://fi.wikipedia.org/wiki/Akseli_Rauanheimo
+description: ''
+gutenberg_issued: '2016-09-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53160'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finns -- Canada'
+- !lcsh 'Finnish Americans'
+- !lcc 'E151'
+- GITenberg
+title: Suomalaiset Amerikassa
+url: http://www.gutenberg.org/ebooks/53160
